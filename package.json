@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "validate-slack-request": "^0.1.4"
   },
   "license": "Apache-2.0"
